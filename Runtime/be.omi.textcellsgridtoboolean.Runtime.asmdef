@@ -1,0 +1,16 @@
+{
+    "name": "be.omi.textcellsgridtoboolean",
+    "rootNamespace": "",
+    "references": [
+        "be.omi.texttocellsgrid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

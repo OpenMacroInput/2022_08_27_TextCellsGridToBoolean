@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.omi.textcellsgridtoboolean",                              
+  "displayName": "Text Cells Grid To Boolean",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Convert cells grid to named boolean value to help user to use tool they are used to.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/OpenMacroInput/2022_08_27_TextCellsGridToBoolean.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
